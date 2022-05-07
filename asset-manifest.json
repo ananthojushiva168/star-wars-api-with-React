@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/star-wars-api-with-React/static/js/main.35072561.js",
+    "static/js/787.1169cf68.chunk.js": "/star-wars-api-with-React/static/js/787.1169cf68.chunk.js",
+    "index.html": "/star-wars-api-with-React/index.html",
+    "main.35072561.js.map": "/star-wars-api-with-React/static/js/main.35072561.js.map",
+    "787.1169cf68.chunk.js.map": "/star-wars-api-with-React/static/js/787.1169cf68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.35072561.js"
+  ]
+}
